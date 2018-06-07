@@ -1,3 +1,6 @@
+## Forked from [simmatrix/vue-google-auth](https://github.com/simmatrix/vue-google-auth)
+Fixed the scope overriding issue.
+
 # vue-google-auth
 Handling Google sign-in and sign-out for Vue.js applications
 
